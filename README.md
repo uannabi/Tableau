@@ -4,3 +4,4 @@ Data visualization platfrom
 - Heatmap 
 - Bubble chart 
 - Barchart
+- discrete & continous date 
